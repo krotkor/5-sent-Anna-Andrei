@@ -1,0 +1,17 @@
+{
+	"name": "12 свиданий года",
+	"short_name": "12 свиданий года",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/7IjiZZwS_VIUpKD2OvifCVnjmu93cIOuy6cnlJXUIFBVUzkI5gVqR6nNwvx2iSBcZaVbg9032CSJncCsPKD2v_Ob_128x128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		}
+	],
+	"screenshots": []
+}
